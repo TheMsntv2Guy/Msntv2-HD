@@ -1,5 +1,5 @@
 # MSN TV 2 HD
-Made by Me and help from SKcro
+Made by Me and help from SKcro(https://github.com/SKCro)
 
 Hosted instance: [https://skcro.github.io/MSN-TV-2-HD/pages/Welcome.html](https://skcro.github.io/MSN-TV-2-HD/pages/Welcome.html)
 
