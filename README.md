@@ -1,4 +1,11 @@
 # MSN TV 2 HD
-For right now, this is just to help someone with a project of theirs. Might revamp it, but don't count on it.
+Made by Me and help from SKcro
 
 Hosted instance: [https://skcro.github.io/MSN-TV-2-HD/pages/Welcome.html](https://skcro.github.io/MSN-TV-2-HD/pages/Welcome.html)
+
+This is a project to get Msn Tv 2 working on modern browsers
+
+This is not fully complete not even half done but as I work on this the more we can get working
+
+So why am I working on this: Well It's for the Webtv and msn tv Comunity as some people can't get a hand one of these over priced half functional boxes
+
